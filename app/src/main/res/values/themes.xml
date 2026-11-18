@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.LuvéaBeauty" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/luvea_cream</item>
+    </style>
+</resources>
